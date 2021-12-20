@@ -2,7 +2,7 @@
 
 ## Python
 
-- Install python at https://www.python.org/ or use your favorite package manager\
+- Install python at https://www.python.org/ or use your favorite package manager
 - Ensure python package praw is installed `python-pip install praw`
 
 <br />
