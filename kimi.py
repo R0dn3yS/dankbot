@@ -6,7 +6,7 @@ from praw.exceptions import APIException
 keywords = ['verstappen', 'hamilton', 'max', 'lewis', 'kimi']
 
 reddit = praw.Reddit(
-    user_agent='',
+    user_agent='kimi-bot',
     client_id='',
     client_secret='',
     username='',
