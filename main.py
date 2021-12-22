@@ -33,7 +33,7 @@ reddit = praw.Reddit(
     ratelimit_seconds=300,
 )
 
-subreddit = reddit.subreddit("formuladank") 
+subreddits = reddit.subreddit("aarava+tiametmarduk") 
 
 for comment in subreddit.stream.comments(skip_existing=True):
     if isinstance(comment, MoreComments):
