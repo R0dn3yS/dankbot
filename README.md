@@ -3,7 +3,7 @@
 ## Python
 
 - Install python at https://www.python.org/ or use your favorite package manager
-- Ensure python package praw is installed `python-pip install praw`
+- Ensure python package praw is installed `python -m pip install praw`
 
 <br />
 
